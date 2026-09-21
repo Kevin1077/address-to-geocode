@@ -1,0 +1,6 @@
+.env
+.env.docker
+.venv/
+.git/
+__pycache__/
+.idea/
